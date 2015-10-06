@@ -9,6 +9,8 @@ float[] alpha = new float[amount];
 float[] bounceSpeed = new float[amount];
 float[] bounceHeight = new float[amount];
 
+String make;
+
 void setup() {
   
   //-----set stage
