@@ -10,8 +10,11 @@ float[] bounceSpeed = new float[amount];
 float[] bounceHeight = new float[amount];
 
 String make;
+String makeAnother;
 
 void setup() {
+  
+  makeAnother = "say ho!";
   
   //-----set stage
   size(720, 1280, P3D);
